@@ -1,6 +1,5 @@
 import { useState } from "react";
 import Header from "./components/Header";
-import Card from "./components/Card";
 import CoronaForCountry from "./components/CoronaForCountry";
 import RecordedCorona from "./components/RecordedCorona";
 import CoronaForContinent from "./components/CoronaForContinent";
